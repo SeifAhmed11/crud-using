@@ -2,7 +2,7 @@
 
 class HomeController 
 {
-    public function index($id)
+    public function index()
     {
         $data['title']="Home page";
         $data['contant']="fast";

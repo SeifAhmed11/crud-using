@@ -39,6 +39,7 @@ class App
 
             // var_dump($this->params);
         }
+        
     }
 
     private function render()
